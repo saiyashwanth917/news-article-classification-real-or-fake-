@@ -42,7 +42,7 @@
 🔸streamlit run app.pystreamlit run app.py
 
 
-**🔹Output:**
+**🚀Output:**
 
 
 🔸A clean web interface where users can paste any news article and check if it’s likely REAL ✅ or FAKE ❌.
