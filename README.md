@@ -1,5 +1,5 @@
 # news-article-classification-real-or-fake-
-📰 Fake News Detection using NLP
+**📰 Fake News Detection using NLP:**
 
 
 
@@ -8,7 +8,7 @@
 **🔗** **Live Demo:**  https://txpkhazn64f8s4cjscw7cc.streamlit.app 
 
 
-🎯 Objective
+**🎯 Objective:**
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 🔸 Python
 
 🔸 Pandas, NumPy
@@ -27,16 +27,15 @@
 
 🔸 Streamlit
 
-🚀 How to Run Locally
+**🚀 How to Run Locally**
 
-Run the Streamlit app:
-
+**Run the Streamlit app:
+**
 
 🔸streamlit run app.pystreamlit run app.py
 
 
-
-🔹 Output:
+**🔹Output:**
 
 
 🔸A clean web interface where users can paste any news article and check if it’s likely REAL ✅ or FAKE ❌.
