@@ -17,6 +17,9 @@
 
 
 **🛠 Tools & Technologies**
+
+
+
 🔸 Python
 
 🔸 Pandas, NumPy
@@ -27,10 +30,11 @@
 
 🔸 Streamlit
 
+
 **🚀 How to Run Locally**
 
-**Run the Streamlit app:
-**
+
+**Run the Streamlit app:**
 
 🔸streamlit run app.pystreamlit run app.py
 
