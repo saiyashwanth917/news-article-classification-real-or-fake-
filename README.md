@@ -48,6 +48,11 @@
 🔸A clean web interface where users can paste any news article and check if it’s likely REAL ✅ or FAKE ❌.
 
 
+Run the Streamlit app:
 
+bash
+Copy
+Edit
+streamlit run app.py
 
 
