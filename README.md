@@ -43,3 +43,9 @@
 
 
 🔸A clean web interface where users can paste any news article and check if it’s likely REAL ✅ or FAKE ❌.
+
+
+
+
+**🔹 Live App Link:**  
+👉 [Click to open Streamlit App](https://txpkhazn64f8s4cjscw7cc.streamlit.app)
